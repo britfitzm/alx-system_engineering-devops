@@ -1,1 +1,1 @@
-This directory contains all the scripts and folders for the project 0x00 shell basics
+This directory contains the answers in script form to the tasks of 0x03 shell variables expansions
